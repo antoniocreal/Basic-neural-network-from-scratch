@@ -1,6 +1,6 @@
 
 # Neural networks from scratch
-This project is a comprehensive exploration of neural networks and backpropagation implemented from scratch. The goal is to understand the inner workings of how a neural network fundamentally works by providing clear, step-by-step mathematical implementations and some visualizations.
+This project is a comprehensive exploration of neural networks and backpropagation implemented from scratch. The goal is to demonstatre the inner workings of how a neural network fundamentally works by providing clear, step-by-step mathematical implementations and some visualizations.
 
 This project is inspired on Andrej Karpathy's backpropagation youtube video https://www.youtube.com/watch?v=VMj-3S1tku0
 
